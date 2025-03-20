@@ -1,0 +1,7 @@
+1,Apple,0.50
+2,Banana,0.30
+3,Orange,0.40
+4,Milk,3.50
+5,Bread,2.75
+6,Yogurt,1.50
+7,Lettuce,.75

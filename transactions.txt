@@ -1,0 +1,11 @@
+1,Apple,0.5,3
+Total: 1.5
+
+5,Bread,2.75,4
+2,Banana,0.3,6
+Total: 12.8
+
+7,Lettuce,0.75,8
+3,Orange,0.4,7
+Total: 8.8
+
